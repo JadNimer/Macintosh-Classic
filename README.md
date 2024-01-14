@@ -11,6 +11,10 @@ My favorite classic computer is the Macintosh Classic, the first Macintosh to se
 |  RAM      | 1 MB, expandable to 2 or 4 MB |  16 GB |
 |  Disk Space|   40 MB         |    512 GB        |
 |  GPU       |     9-inch monochrome CRT           |    AMD Radeon Pro 5500M | 
-| Hard Drive  | 40 MB SCSI |  1 TB SSD       
+| Hard Drive  | 40 MB SCSI |  1 TB SSD     
 
 ![My Image](440px-Macintosh_classic.jpg)
+
+# Price
+* US$999
+* US$1,499 with 40 MB hard disk and 2 MB RAM
