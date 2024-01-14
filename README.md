@@ -18,3 +18,6 @@ My favorite classic computer is the Macintosh Classic, the first Macintosh to se
 # Price
 * US$999
 * US$1,499 with 40 MB hard disk and 2 MB RAM
+
+A lot of users have criticized 'the low processor performance and the lack of the slot' Christophe Dernbach points out,
+> The price point and the simplicity of the product make up for that
