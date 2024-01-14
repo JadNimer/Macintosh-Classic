@@ -21,3 +21,6 @@ My favorite classic computer is the Macintosh Classic, the first Macintosh to se
 
 A lot of users have criticized 'the low processor performance and the lack of the slot' Christophe Dernbach points out,
 > The price point and the simplicity of the product make up for that
+
+# Review
+[Macintosh Classic Review](https://www.youtube.com/watch?v=iI9e1dWzwp4&ab_channel=VWestlife)
