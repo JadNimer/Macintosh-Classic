@@ -1,6 +1,6 @@
 # Macintosh-Classic
 
-My favorite classic computer is the Macintosh Classic, the first Macintosh to sell for less than **$1,000 US dollars**. It was manufactured from **October 1990 to September 1992**, and was of very high quality. It is my favourite only second to my current computer, the MacBook Pro. 
+My favorite classic computer is the Macintosh Classic, the first Macintosh to sell for less than **$1,000 US dollars**. It was manufactured from **October 1990 to September 1992**, and was of very high quality. It is my favourite only second to my current computer, the MacBook Pro. This computer was the best of its time, with amazing quality and excellent price.
 
 # The Specs Compared 
 
